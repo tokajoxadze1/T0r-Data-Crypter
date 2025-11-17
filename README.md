@@ -1,5 +1,5 @@
     pip install customtkinter cryptography pillow
-    sudo 
+    python3 "T0r Data Cryper.py" 
 
 T0r-Data-Crypter ეს არის დაშიფვრის პროგრამა რომელიც აერთიანებს უახლეს ტექნოლოგიებს 
 -----------------------------------------------
