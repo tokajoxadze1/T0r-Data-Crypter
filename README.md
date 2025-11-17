@@ -1,4 +1,6 @@
-                                                  🔥 T0r-Data-Crypter 🔥
+    pip install customtkinter cryptography pillow
+    sudo 
+
 T0r-Data-Crypter ეს არის დაშიფვრის პროგრამა რომელიც აერთიანებს უახლეს ტექნოლოგიებს 
 -----------------------------------------------
 
