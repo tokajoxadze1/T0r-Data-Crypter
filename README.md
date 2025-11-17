@@ -1,6 +1,9 @@
-pip install customtkinter cryptography pillow 
+                        🔥 T0r-Data-Crypter 🔥
+ ეს არის დაშიფვრის პროგრამა რომელიც აერთიანებს უახლეს ტექნოლოგიებს 
 -----------------------------------------------
-🔥 ეს არის დაშიფვრის პროგრამა რომელიც აერთიანებს უახლეს ტექნოლოგიებს 🔥
+
+ აუცილებელი  Python ბიბლიოთეკა: 
+ pip install customtkinter cryptography pillow 
 
 🔐 უსაფრთხოება:
 AES-256-GCM, ChaCha20, AES-256-CBC ალგორითმები
